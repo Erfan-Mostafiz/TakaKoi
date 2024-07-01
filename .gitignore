@@ -1,0 +1,37 @@
+# Node.js and NPM
+node_modules/
+npm-debug.log
+
+# Compiled files
+build/
+dist/
+*.log
+
+# IDE and editor files
+.vscode/
+.idea/
+*.iml
+
+# Environment variables
+.env
+
+# Add more rules as necessary
+
+# dependencies
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
